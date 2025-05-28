@@ -1,4 +1,4 @@
-# Matrix
+# matrix
 
 A lightweight C library for dense matrix and vector operations, designed for simplicity, security, and efficiency.
 
