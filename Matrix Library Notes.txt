@@ -1,0 +1,63 @@
+[2, 3, 5] Example of matrix. Can have any number of rows and columns
+
+Build tests for each function as you go. 
+
+Begin by doing initialization of only ints, addition only ints, print only ints. Then add on more.
+
+A union type allows for multiple different input types, but it can only hold one.
+
+Include the type of the Matrix in its struct
+
+Do not need to handle strings and chars because matrices dont use anything other than numbers
+
+Can take any type of number.
+
+1. Initialize a matrix of any size. 
+	
+	
+2. Ability to get the row and column dimensions from any stored matrix. 
+	
+
+3. Get a single number from the location of any matrix. 
+
+4. Ability to set a single element to any number. 
+
+5. Print one full row of any matrix. 
+
+6. Print one full column of any matrix. 
+
+7. Be able to take any current matrix and resize it. 
+
+8. Be able to take a subset of any matrix.
+
+9. Be able to resize any matrix 
+	Deletes extra elements for smaller size. Sets extra elements 	to "0" for larger size
+
+10. Able to add any two matrices. 
+
+11. Able to subtract any two matrices. 
+
+12. Able to multiply any two matrices.
+
+13. Deep copy of a matrix. 
+	This means that all of the memory of a matrix are copied to another. This is not pointing the new matrix to the old one. 
+
+14. Check if two matrices are equivalent. The matrixes are equal in values. and the matrices are equal in memory location. 
+
+15. Able to rotate a matrix either to the left or, to the right
+
+
+
+
+
+
+Library Instructions
+
+1. When a matrix is created, it should be stored in ram. 
+
+2. When a matrix is created, it should always have an assigned dimensions
+
+
+
+
+
