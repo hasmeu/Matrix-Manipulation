@@ -8,7 +8,7 @@ A lightweight C library for dense matrix and vector operations, designed for sim
 - Automatic management of matrix dimensions.
 - Supports multiple data types per matrix (e.g., `int`, `float`, `double`).
 - Configurable row-major or column-major storage (library-wide).
-- Robust error checking and recovery.
+- Robust error checking.
 - Operations:
   - Initialize matrices.
   - Get/set elements, rows, or columns.
